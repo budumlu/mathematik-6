@@ -5,9 +5,9 @@ Löse folgende Aufgaben zum Rechenbaum 1 und zum Rechenbaum 2. Kontrolliere Dein
 
 ## Aufgaben zum Rechenbaum 1
 
-1. $$(2+3)\cdot 5= ?$$
-2. $$(5+25)\cdot 16= ?$$
-3. $$(65-23)\cdot 5= ?$$
+$$(2+3)\cdot 5= ?$$
+$$(5+25)\cdot 16= ?$$
+$$(65-23)\cdot 5= ?$$
 
 ## Aufgaben zum Rechenbaum 2
 
@@ -18,6 +18,7 @@ Löse folgende Aufgaben zum Rechenbaum 1 und zum Rechenbaum 2. Kontrolliere Dein
 ## Rechenbaum-Methode
 
 ### Rechenbaum 1
+
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/kCN5wZ9b/width/971/height/551/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="971px" height="551px" style="border:0px;"> </iframe>
 
 

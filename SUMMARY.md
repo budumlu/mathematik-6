@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Einleitung](README.md)
 * [Rechnen mit und ohne Klammern](chapter1.md)
   * [Übung 1](chapter1/ubung-1.md)
   * [Übung 2](chapter1/ubung-2.md)
