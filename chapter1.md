@@ -5,9 +5,9 @@ Löse folgende Aufgaben zum Rechenbaum 1 und zum Rechenbaum 2. Kontrolliere Dein
 
 ## Aufgaben zum Rechenbaum 1
 
-$$(2+3)\cdot 5= ?$$
-$$(5+25)\cdot 16= ?$$
-$$(65-23)\cdot 5= ?$$
+1. $$(2+3)\cdot 5= ?$$
+2. $$(5+25)\cdot 16= ?$$
+3. $$(65-23)\cdot 5= ?$$
 
 ## Aufgaben zum Rechenbaum 2
 
