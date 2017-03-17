@@ -1,0 +1,1 @@
+<iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/qvnmEJR2/width/858/height/707/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="858px" height="707px" style="border:0px;"> </iframe>
