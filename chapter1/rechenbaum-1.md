@@ -3,8 +3,8 @@ Löse folgende Aufgaben zum Rechenbaum 1. Kontrolliere Deine Ergebnisse mit Hilf
 
 **Aufgaben**
 
-1. $$(2+3)\cdot 5= ?$$
-2. $$(5+25)\cdot 16= ?$$
+1. $$(6+3)\cdot 5= ?$$
+2. $$(25+5)\cdot 16= ?$$
 3. $$(65-23)\cdot 5= ?$$
 
 
