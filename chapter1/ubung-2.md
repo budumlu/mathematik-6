@@ -1,1 +1,2 @@
+Stehen mehrere Klammern in einer Aufgabe, so rechnest Du sie von innen nach außen aus. 
 <iframe scrolling="no" src="https://www.geogebra.org/material/iframe/id/pNaJ6ywh/width/843/height/587/border/888888/smb/false/stb/false/stbh/false/ai/true/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="843px" height="587px" style="border:0px;"> </iframe>
