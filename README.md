@@ -1,5 +1,6 @@
 
-Ein interaktives Mathematikbuch.
+# Ein interaktives Mathematikbuch.
+Dieses interaktive Mathematikbuch soll der Übung von Schülerinnen und Schülern der 6. Klassen in NRW dienen. Die Übungsabschnitte sind am Unterrichtsinhalt des Lehrwerks "Das Mathematikbuch" von Klett angelehnt. Dieses Buch ist in ständiger Überarbeitung und ist nicht als fertiges Werk anzusehen. Für Empfehlungen und Kommentare bin ich sehr dankbar.
 
 # Lizenz
 
