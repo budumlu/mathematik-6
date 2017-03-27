@@ -2,6 +2,7 @@
 
 ## Rechnen mit Klammern
 
+* [Einleitung](README.md)
 * [Rechnen mit und ohne Klammern](chapter1.md)
   * [Rechenbaum 1](chapter1/rechenbaum-1.md)
   * [Rechenbaum 2](chapter1/rechenbaum-2.md)
@@ -11,7 +12,7 @@
 
 ## Parallelogramme und Dreiecke
 
-* [Einleitung](README.md)
+* [Vierecke](vierecke.md)
 * [Parallelogramme](parallelogramme.md)
   * [Eigenschaften](parallelogramme/eigenschaften.md)
   * [Konstruiere 1](parallelogramme-und-dreiecke/ubung-1.md)
