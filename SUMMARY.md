@@ -26,4 +26,5 @@
 
 * [Brüche multiplizieren 1](bruche-multiplizieren/bruche-multiplizieren-1.md)
 * [Brüche multiplizieren 2](bruche-multiplizieren/bruche-multiplizieren-2.md)
+* [Brüche dividieren 1](bruche-multiplizieren/bruche-dividieren-1.md)
 
