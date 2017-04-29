@@ -22,3 +22,8 @@
   * [Flächeninhalt](parallelogramme-und-dreiecke/ubung-4.md)
 * [Übung X](parallelogramme-und-dreiecke/ubung-31.md)
 
+## Brüche multiplizieren und dividieren
+
+* [Brüche multiplizieren 1](bruche-multiplizieren/bruche-multiplizieren-1.md)
+* [Brüche multiplizieren 2](bruche-multiplizieren/bruche-multiplizieren-2.md)
+

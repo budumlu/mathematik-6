@@ -1,0 +1,1 @@
+<iframe scrolling="no" title="Veranschaulichung: Brüche multiplizieren" src="https://www.geogebra.org/material/iframe/id/CbYsAyCF/width/685/height/565/border/888888/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/true/rc/false/ld/false/sdz/true/ctl/false" width="685px" height="565px" style="border:0px;"> </iframe>
