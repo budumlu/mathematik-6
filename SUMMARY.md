@@ -20,7 +20,6 @@
   * [Flächeninhalt](parallelogramme-und-dreiecke/ubung-3.md)
 * [Dreiecke](dreiecke.md)
   * [Flächeninhalt](parallelogramme-und-dreiecke/ubung-4.md)
-* [Übung X](parallelogramme-und-dreiecke/ubung-31.md)
 
 ## Brüche multiplizieren und dividieren
 
